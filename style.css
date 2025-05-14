@@ -1,1 +1,10 @@
 /* Ide írhatod a stílusokat a feladat szerint */
+body{
+    background-color: #F0F0F0;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+.keret{
+    width: 90%;
+}
